@@ -1,4 +1,4 @@
-#Artemii's First CS193 Homework
+# Artemii's First CS193 Homework
 
 - Funny and informative lecturers
 - Great presentations
